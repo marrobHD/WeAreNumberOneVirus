@@ -1,8 +1,8 @@
 # WeAreNumberOneButItIsAComputerVirus
-We are number one but it's a computer trojan
+This is a WeAreNumberOne Virus with vbs installation.
 
 
-I'm not responsable for any damage to your computer, your life and your robbie rotten.
+Ich hafte für keine schäden
 
 This virus is "harmfull": it don't touch your data except that it will add a ".robbierotten" extension to your files.
 
