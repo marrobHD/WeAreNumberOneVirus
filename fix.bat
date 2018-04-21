@@ -23,8 +23,8 @@ rmdir "C:\Users\%username%\Documents\party" /S /Q
 @del other.bat
 echo [%time%] Done!
 echo.
-echo Remember, go support our Robbie Rotten number one! ;) https://www.gofundme.com/2tm9tqk
-start https://www.gofundme.com/2tm9tqk
+echo Remember, go support our Robbie Rotten number one! ;) https://www.gofundme.com/stefankarlstefansson
+start https://www.gofundme.com/stefankarlstefansson
 echo.
 echo.
 pause
