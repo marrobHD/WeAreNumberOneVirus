@@ -233,7 +233,7 @@ public class NumberOne {
 			for(int i = 0; i < listOfFiles.length; i++){
 				if(listOfFiles[i].isFile()){
 					String s = listOfFiles[i].getName();
-					String nExt = "robbierotten";
+					String nExt = "poppy";
 					System.out.print(s + " ");
 					if(mode){
 						if(extVerify(s)) {System.out.print(" replace ");FileO.rename(dir + "\\" + s, dir + "\\" + s + "." + nExt);}
